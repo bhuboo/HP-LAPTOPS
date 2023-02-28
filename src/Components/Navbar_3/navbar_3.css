@@ -1,0 +1,43 @@
+.navbar-3{
+    display: flex;
+}
+.thirdlist{
+    list-style: none;
+    display: flex;
+    margin-top: -15px;
+    margin-left: 120px;
+
+}
+.thirdlist li{
+    padding-left: 10px;
+    font-weight: 499px;
+    font-size: 15px;
+    color: rgb(75, 74, 74);
+}
+.thirdlist li:hover{
+    color:  #165DBA;
+    cursor: pointer;
+}
+.fourthlist{
+    list-style: none;
+    display: flex;
+    margin-top: -25px;
+    margin-left: 150px;
+    /* font-size: 2rem; */
+}
+.fourthlist a{
+padding-left: 8px;
+font-size: 1.8rem;
+color: rgb(75, 74, 74);
+}
+.cartcount{
+    background: #f15916;
+    height: 16px;
+    width: 16px;
+    justify-content: center;
+    /* text-align: center; */
+    align-items:center ;
+    display: flex;
+    border-radius: 50%;
+   font-size: 12px;
+}

@@ -1,0 +1,33 @@
+.app-bar{
+    background-color: #df2248!important;
+    height: 50px;
+}
+.navbar{
+    display: flex;
+    margin-top: 0;
+    margin-left: 250px;
+}
+.navbar li{
+padding-left: 40px;
+list-style: none;
+color: white;
+}
+.para1{
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 10px;
+    
+}
+.para2{
+    font-weight: 430;
+    margin-top: 13px;
+}
+.btn-1{
+margin-top: 8px;
+/* margin-left: 30px; */
+height: 35px;
+/* width: 110px; */
+font-size: 17px;
+background-color: black;
+color: white;
+}

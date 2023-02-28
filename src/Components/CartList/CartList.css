@@ -1,0 +1,157 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+.sidebar{
+    margin-top: 20px;
+    height: 45rem;
+    display: flex;
+}
+.sbtn{
+    width: 20rem;
+    background-color: white;
+    margin-left: 30px;
+    border: 0px;
+    border-bottom: 0.75px solid #000;
+}
+.sbtn:hover{
+    background-color: rgb(240, 236, 236);
+}
+.pricep1{
+    font-size: 18px;
+    color: rgb(63, 63, 63);
+    text-align: left;
+}
+.qsmark{
+    font-size: 20px; 
+}
+.qsmark:hover{
+    transform: scale(1.20);
+    transition: 2s;
+    color: rgb(196, 192, 192);
+}
+.plusicon{
+    margin-left: 185px;
+    font-size: 30px;
+    /* margin-top: 5px; */
+}
+.plusicon1{
+    margin-top: -50px;
+    margin-left: 270px;
+    font-size: 30px;
+}
+.lapimg{
+    width: 11rem;
+    margin-top: 80px;
+    margin-left: 75px;
+}
+
+
+.maincontainer{
+    border: 1px solid grey;
+    width: 320px;
+    height: 46rem;
+}
+.maincontainer:hover{
+background-color: rgb(235, 234, 234);
+}
+.card{
+    display: flex;
+    margin-left: 10px;
+    height: auto;
+    width: 1300px;
+   flex-wrap: wrap;
+}
+.stockbtn{
+    font-size: 22px;
+    color: green;
+}
+.stock{
+    display: flex;
+}
+.lapname{
+    font-size: 20px;
+    margin-left: 29px;
+    color: rgb(63, 63, 63);
+}
+.lappara{
+    font-size: 13px;
+    margin-left: 28px;
+    color: #000000;
+}
+.pricetag{
+    display: flex;
+    margin-left: 20px;
+
+}
+.lapinfo2{
+    background: #4ef5ab;
+    margin-left: 7px;
+    font-size: 12px;
+    height: 16px;
+    font-weight: 500;
+}
+.lapprice{
+    font-size: 21px;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+    margin-top: -10px;
+}
+.taxprice{
+    display: flex;
+}
+.tax{
+    font-size: 13px;
+    margin-top: -5px;
+    color: rgb(75, 75, 75);
+}
+.gst{
+    font-size: 13px;
+    margin-top: -15px;
+    margin-left: 22px;
+    color: rgb(80, 79, 79);
+}
+.vdetails{
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    margin-left: 20px;
+    text-decoration: none;
+}
+.arrow{
+    font-size: 20px;
+    margin-top: 6px;
+}
+.details{
+    display: flex;
+}
+.cartbtn{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    height: 35px;
+    width: 7rem;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.formline{
+    height: 40px;
+    margin: 0 auto;
+    width: 90%;
+    border-top: 1px solid black;
+    border-bottom:1px solid black ;
+}
+.square{
+    font-size: 18px;
+    margin-top: 10px;
+}
+.label{
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 18px;
+    /* margin-top: -20px; */
+}
+.star{
+    margin-left: 10px;
+}

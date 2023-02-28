@@ -1,0 +1,31 @@
+.blackbox{
+    background-color:#000;
+    margin-top: 80px;
+    height: 60px;
+    display: flex;
+    color: white;
+}
+.p1{
+ margin-left: 25px;
+}
+.p2{
+    padding-left: 32rem;
+   }
+   .vl{
+    border: 1px solid white;
+    height: 15px;
+    margin-top: 20px;
+    margin-left: 5px;
+   }
+   .blackbox1{
+    color: white;
+    display: flex;
+    padding-left: 13rem;
+   }
+   .cars{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 17px;
+    width: 200px;
+    height: 40px;
+   }

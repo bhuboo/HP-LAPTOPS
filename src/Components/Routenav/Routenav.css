@@ -1,0 +1,85 @@
+.Route-nav{
+    display: flex;
+    margin-top: 30px;
+}
+.R-hpimg{
+    width: 65px;
+    /* margin-top: 20px; */
+    margin-left: 50px;
+}
+.R-ul{
+    display: flex;
+}
+.R-ul li{
+    list-style: none;
+    padding-top: 30px;
+}
+.R-dott{
+    position: absolute;
+   padding-top:13px;
+   padding-left: 10px;
+   font-size: 23px;
+   color:#165dba;
+}
+.R-hr{
+    border: 1px solid grey;
+    margin-top: 24px;
+    width: 30rem;
+    margin-left: 26px;
+}
+.R-dott-2{
+    position: absolute;
+    margin-left: 260px;
+    margin-top: -17px;
+    font-size: 22px;
+    color:#165dba;
+}
+.R-hr-2{
+    position: absolute;
+    border: 1px solid grey;
+    margin-left: 130px;
+    width: 100px;
+    margin-top: -10px;
+}
+.R-dott-3{
+    position: absolute;
+    margin-left: 502px;
+    margin-top: -16px;
+    font-size: 22px;
+    color: #165dba;
+}
+.route-icons{
+    position: absolute;
+    margin-left: 180px;
+   
+}
+.cart{
+margin-left: 32px;
+font-weight: 500;
+}
+.checkout{
+    margin-left: 190px;
+    font-weight: 500;
+}
+.confirmation{
+    margin-left: 140px;
+    font-weight: 500;
+}
+
+.check-buttton{
+    width: 22rem;
+    height: 45px;
+    background-color:#165dba;
+    margin-top: 12px;
+    color: white;
+    border: none;
+    margin-left: 170px;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+
+
+
+
+

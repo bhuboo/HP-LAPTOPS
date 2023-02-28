@@ -1,0 +1,19 @@
+.banner{
+    background-color: #f3f3f3;
+    border-top: 1px solid rgb(197,193,193);
+    height: 50px;
+    /* margin-top: -10px; */
+    /* margin-left: 45px; */
+}
+.bannerul{
+    display: flex;
+    list-style: none;
+    margin-left: 45px;
+}
+.bannerul li{
+    padding-left: 10px;
+    font-size: 14px;
+}
+.bannerimg img{
+    padding-left: 54rem;
+}
