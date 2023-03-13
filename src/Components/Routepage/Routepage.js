@@ -2,7 +2,6 @@ import React, { useEffect } from 'react';
 import Routenav from '../Routenav/Routenav';
 import Box from '@mui/material/Box';
 import Grid from '@mui/material/Grid';
-import { IoIosArrowDown  } from "react-icons/io";
 import './Routepage.css';
 import Buttons from './Buttons/Buttons';
 import { useSelector,useDispatch } from 'react-redux';
