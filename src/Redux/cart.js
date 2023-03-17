@@ -41,7 +41,7 @@ return;
     decrement: (state,action) => {
         const productID = action.payload;
         state.cartList.forEach((item)=> {
-            if (item?.id === productID) {
+            if (item.count > 1 ) {
                 item.count--;
                 item.price2= (Number(item.price2)-Number(item.price));
             }
